@@ -1,0 +1,10 @@
+#N struct template1 float x float y float z;
+#N canvas 650 84 477 498 12;
+#X scalar template1 140 155 -43 \;;
+#X obj 97 232 struct template1 float x float y;
+#X obj 97 308 filledpolygon 350 220 4 0 0 20 -40 40 0;
+#X text 53 24 Pd的最后一个元素组是数据结构（Data Structures）， 。它们是用于存储数据的图形对象，可以应用于多种场景，从 数据显示到用户交互等。// 下面，我们就以标量（scalar） 为例，展示一个作为图形对象的简单数据结构。//, f 47;
+#X text 191 125 <= 一个标量数据结构;
+#X text 53 367 数据结构用起来其实没那么简单，它更多是面向进阶用户 的功能。//因此，这部分内容并没有被纳入这份快速入门教 程中；。不过别担心，本教程在高级Pd章节里专门提供了 一份数据结构指南。//, f 45;
+#X text 93 190 [struct]: 用于声明数据结构中的各个字段, f 27;
+#X text 97 281 数据结构的绘制指令:, f 24;
