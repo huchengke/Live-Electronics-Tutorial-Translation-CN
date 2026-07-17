@@ -28,7 +28,7 @@
 
 #### 关于授权
 
-Live-Electronics Tutorial原文基于CC-BY-NC-ND 4.0协议保护，本翻译征得原作者Aleandros Torres Porres同意以进行部分内容更改、注释，同样采用该协议。
+Live-Electronics Tutorial原文基于CC-BY-NC-ND 4.0协议保护，本人征得原作者Aleandros Torres Porres同意以进行翻译、更改、注释，同样采用该协议。
 
 #### 参与贡献
 
